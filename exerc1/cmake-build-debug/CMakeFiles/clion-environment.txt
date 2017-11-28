@@ -1,0 +1,2 @@
+ToolSet: w64 3.4@D:\MinGW\mingw64
+CMake: 3.6.3@D:\Apps Programing\C Lion jetBrains\bin\cmake\bin\cmake.exe

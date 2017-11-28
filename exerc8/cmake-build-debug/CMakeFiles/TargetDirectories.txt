@@ -1,0 +1,3 @@
+C:/Users/windows10/CLionProjects/Lista2/exerc8/cmake-build-debug/CMakeFiles/exerc8.dir
+C:/Users/windows10/CLionProjects/Lista2/exerc8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/windows10/CLionProjects/Lista2/exerc8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

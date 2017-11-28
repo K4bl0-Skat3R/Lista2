@@ -1,0 +1,4 @@
+"D:\Apps Programing\C Lion jetBrains\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\windows10\CLionProjects\Lista2\exerc1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/windows10/CLionProjects/Lista2/exerc1/cmake-build-debug
